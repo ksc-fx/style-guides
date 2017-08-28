@@ -13,13 +13,13 @@ js代码规范基础是
 
   ```js
     function hello (name) {
-        console.log('hi', name)
-    }
+        console.log('hi', name);
+    };
   ```
 * 每一行语句以**分号';'**结束。
 
     ```js
     function hello (name) {
-        console.log('hi', name)
-    }
+        console.log('hi', name);
+    };
     ```
